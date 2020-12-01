@@ -20,7 +20,8 @@
 [![GitHub: kvarun51](https://img.shields.io/github/followers/kvarun51?label=follow&style=social)](https://github.com/kvarun51)
 
 **Languages & Frameworks:**  
- <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+
+<a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 </a>
 
@@ -35,9 +36,6 @@
  <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </a>
-
-
-<img align="left" height="20" src="">
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvarun51&show_icons=true&theme=light&line_height=27%22%20alt=%22Varun%27s%20github%20stats"/>
