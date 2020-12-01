@@ -12,7 +12,8 @@
 
 <br/>
 <br/>
-
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kvarun51&show_icons=true&theme=light&line_height=27%22%20alt=%22Varun%27s%20github%20stats"/>
+ 
 
 - 🔭 On a journey of transition into the field of Full Stack Development.
 - 🌱 Learning new languages and framewoks!
@@ -33,6 +34,5 @@
 <br/>
 <br/>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvarun51&show_icons=true&theme=light&line_height=27%22%20alt=%22Varun%27s%20github%20stats"/>
- 
+
  
