@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvarun51&label=Views&color=blue&style=plastic%22%20alt=%22kvarun51" /> </p>
 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=kvarun51&show_icons=true&theme=light&line_height=27%22%20alt=%22Varun%27s%20github%20stats"/>
+
  <a href="https://www.linkedin.com/in/kvarun51">
   <img align="left" alt="Varun's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,7 +14,7 @@
 
 <br/>
 <br/>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kvarun51&show_icons=true&theme=light&line_height=27%22%20alt=%22Varun%27s%20github%20stats"/>
+
  
 
 - 🔭 On a journey of transition into the field of Full Stack Development.
