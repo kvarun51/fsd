@@ -1,4 +1,4 @@
-## Hello World, I'm Kumar Varun! 👋
+## Hello World, I'm Kumar Varun! 👋👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvarun51&label=Views&color=blue&style=plastic%22%20alt=%22kvarun51" /> </p>
 
@@ -17,8 +17,8 @@
 
  
 
-- 🔭 On a journey of transition into the field of Full Stack Development.
-- 🌱 Learning new languages and framewoks!
+- 👉 On a journey of transition into the field of Full Stack Development.
+- 👉 Learning new languages and framewoks!
 - [![Linkedin: kvarun51](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvarun51)](https://www.linkedin.com/in/kvarun51)
 [![GitHub: kvarun51](https://img.shields.io/github/followers/kvarun51?label=follow&style=social)](https://github.com/kvarun51)
 
