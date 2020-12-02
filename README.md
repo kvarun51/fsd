@@ -18,6 +18,8 @@
  
 
 👉 On a journey of transition into the field of Full Stack Development.
+<br/>
+
 👉 Learning new languages and framewoks!
 <br/>
 
