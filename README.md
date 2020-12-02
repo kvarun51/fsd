@@ -17,9 +17,9 @@
 
  
 
-- 👉 On a journey of transition into the field of Full Stack Development.
-- 👉 Learning new languages and framewoks!
-- [![Linkedin: kvarun51](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvarun51)](https://www.linkedin.com/in/kvarun51)
+👉 On a journey of transition into the field of Full Stack Development.
+👉 Learning new languages and framewoks!
+ [![Linkedin: kvarun51](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvarun51)](https://www.linkedin.com/in/kvarun51)
 [![GitHub: kvarun51](https://img.shields.io/github/followers/kvarun51?label=follow&style=social)](https://github.com/kvarun51)
 
 **Languages & Frameworks:**  
