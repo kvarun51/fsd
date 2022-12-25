@@ -17,7 +17,7 @@
 
  
 
-👉 On a journey of transition into the field of Full Stack Development.
+👉 Building Tech @Smytten.
 <br/>
 
 👉 Learning new languages and framewoks!
